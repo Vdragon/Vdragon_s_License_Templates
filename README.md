@@ -1,5 +1,5 @@
 # Ｖ字龍的授權條款範本<br />Vdragon's License Templates
-<http://www.github.com/Vdragon/Vdragon_s_License_Templates>  
+<http://github.com/Vdragon/Vdragon_s_License_Templates>  
 Ｖ字龍(<Vdragon.Taiwan@gmail.com>)所使用的授權條款範本。  
 License templates used by Ｖ字龍(Vdragon)(<Vdragon.Taiwan@gmail.com>).
 
@@ -11,5 +11,5 @@ This work is a derivative work of known public licenses under fair use principle
 Any usage of licenses provided by this project should respect the all respective copyright owners.
 
 ## 有任何問題嗎？<br />Any issues?
-請到[本專案的議題追蹤系統](http://www.github.com/Vdragon/Vdragon_s_License_Templates/issues)[建檔一個新議題](http://www.github.com/Vdragon/Vdragon_s_License_Templates/issues/new)。  
-Please visit [our issue tracker](http://www.github.com/Vdragon/Vdragon_s_License_Templates/issues) and [file a new issue](http://www.github.com/Vdragon/Vdragon_s_License_Templates/issues/new).
+請到[本專案的議題追蹤系統](http://github.com/Vdragon/Vdragon_s_License_Templates/issues)[建檔一個新議題](http://github.com/Vdragon/Vdragon_s_License_Templates/issues/new)。  
+Please visit [our issue tracker](http://github.com/Vdragon/Vdragon_s_License_Templates/issues) and [file a new issue](http://github.com/Vdragon/Vdragon_s_License_Templates/issues/new).
