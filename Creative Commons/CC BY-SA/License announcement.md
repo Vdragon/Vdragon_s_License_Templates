@@ -1,6 +1,6 @@
 ## 本作品的智慧財產授權條款<br />Intellectual property license applied to this work
 除了另外聲明之內容以外，本作品之內容採用「創用 CC-<span class="important_warning" style="color: red">**BY**</span>-<span class="important_warning" style="color: red">**SA**</span> 3.0 台灣地區版本或其後版本」授權條款釋出供所有人使用。  
-![「創用 CC-BY-SA 3.0 台灣地區版本或其後版本」授權條款圖示](./Resources/Creative%20Commons%20CC-BY-SA%20logo.svg)
+![「創用 CC-BY-SA 3.0 台灣地區版本或其後版本」授權條款圖示](https://cdn.rawgit.com/Vdragon/Vdragon_s_License_Templates/217eea4d6e13a5f72eddf1f1a3b22dbdee9e9639/Creative%20Commons/CC%20BY-SA/Resources/Creative%20Commons%20CC-BY-SA%20logo.svg)
 
 於下列條件的<span class="important_warning" style="color: red">**限制**</span>下您可以自由使用本作品之內容於任何用途：
 
