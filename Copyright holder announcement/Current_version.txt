@@ -1,0 +1,12 @@
+智慧財產授權人(Copyright holder)：Ｖ字龍(Vdragon) <Vdragon.Taiwan@gmail.com> 於 2012
+Copyright 2012 Ｖ字龍(Vdragon) <Vdragon.Taiwan@gmail.com>
+本程式採用的授權條款 | The license used by this software
+
+  這個程式是一個自由軟體：您可以在遵守自由軟體基金會(Free Software Foundation)所發佈的 GNU General Public License 授權條款第 3 版或是（於您的選擇下）任一更新版本的前提下將它重新分發及／或修改。
+  This program is free software: you can redistribute it and/or modify　it under the terms of the GNU General Public License as published by　the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+  這個程式以開發者認為它可能有用的情況下被分發，但是＊不包含任何擔保＊；甚至不包含暗示其對於＊商業價值＊或是＊特定需求的適用性＊的保證。更多相關細節請參考 GNU General Public License 授權條款。
+  This program is distributed in the hope that it will be useful,　but WITHOUT ANY WARRANTY; without even the implied warranty of　MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.　　See the　GNU General Public License for more details.
+
+  您應該已經得到一份 GNU General Public License 授權條款的副本。如果沒有請上 <http://www.gnu.org/licenses/> 瀏覽。
+  You should have received a copy of the GNU General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>.
