@@ -25,6 +25,6 @@
 如果有任何需求，敬請不吝來信洽詢
 
 * 國立台灣海洋大學網路發展協會　Ｖ字龍  
-  <Vdragon.Taiwan@gmail.com>
+  &lt;<Vdragon.Taiwan@gmail.com>&gt;
 
 感謝您的配合，並祝您使用愉快！
