@@ -1,11 +1,3 @@
-<style scoped>
-.important_warning { 
-	color: red; 
-	font-weight: bold
-}
-
-</style>
-
 ## 本作品的智慧財產授權條款<br />Intellectual property license applied to this work
 除了另外聲明之內容以外，本作品之內容採用「創用 CC-<span class="important_warning" style="color: red; font-weight: bold">BY</span>-<span class="important_warning" style="color: red; font-weight: bold">SA</span> 3.0 台灣地區版本或其後版本」授權條款釋出供所有人使用。  
 ![「創用 CC-BY-SA 3.0 台灣地區版本或其後版本」授權條款圖示](./Resources/Creative%20Commons%20CC-BY-SA%20logo.svg)
